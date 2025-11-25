@@ -1,8 +1,11 @@
 import React from 'react'
+import NavBar from '../components/NavBar'
 
 const Bot = () => {
   return (
-    <div>Bot</div>
+    <div>
+      <NavBar />
+    </div>
   )
 }
 
